@@ -1,0 +1,13 @@
+{
+  "name": "enterprise-blockchain-platform",
+  "version": "1.0.0",
+  "description": "Enterprise blockchain platform concept with smart contract transaction registry for multi-stakeholder ecosystems.",
+  "scripts": {
+    "test": "echo \"Tests can be added using Hardhat\"",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
